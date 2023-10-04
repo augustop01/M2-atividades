@@ -2,6 +2,8 @@ package m1s01.ex_03;
 
 import java.util.Scanner;
 
+/*Crie um programa em Java que, utilizando a classe Scanner, peça ao usuário para inserir um número inteiro. O programa deve verificar se o número é par ou ímpar, e exibir essa informação de volta ao usuário.*/
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
