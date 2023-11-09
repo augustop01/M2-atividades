@@ -1,4 +1,4 @@
-package m1s03.ex_02;
+package m1s03.ex_03;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package m1s03.ex_01;
+package m1s03.ex_02;
 
 public class TesteFuncionario {
     public static void main(String[] args) {
